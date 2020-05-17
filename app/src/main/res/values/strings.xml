@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Travel Guide Application</string>
+
+    <string name="bangalorePalaceName">Bangalore Palace</string>
+    <string name="bangalorePalaceDetail">The majestic Bangalore palace, enclosed by beautiful gardens, is a famous tourist attraction in Bangalore. It is now owned by the Mysore Royal family.</string>
+    <string name="mgroadName">M.G. Road</string>
+    <string name="mgroadDetail">MG Road is one of a most popular shopping and entertainment hub of Bangalore. Swarming with people at almost all the time, one must visit the place if in Bangalore</string>
+    <string name="templeName">ISKCON Temple</string>
+    <string name="templeDetail">Apart from a religious temple, ISKCON is a cultural complex accommodating dedicated deities of Sri Sri Radha Krishnachandra, Sri Sri Krishna Balarama, Sri Sri Nitai Gauranga, Sri Srinivasa Govinda and Sri Prahlada Narasimha.</string>
+    <string name="filmcityName">Innovative Film City</string>
+    <string name="filmcityDetail">Take a day trip to this theme park, just a little away from the main city, which keeps the promise in its name. Spend a day here enjoying the countless sections such as the Wild Wild West, Miniature City, Cartoon City</string>
+
+    <string name="ubcityName">UB City Mall</string>
+    <string name="ubcityDetail"> Assimilation of four towers as a whole, it is spread over a mind-boggling area of 13 acres. The place takes care of all your exclusive needs, whether it is shopping at some high-end store, ultra-fine dining, or even taking a Spa after a long day of work, this place has it all.</string>
+    <string name="orionmallName">Orion Mall</string>
+    <string name="orionmallDetail">Orion mall is one of the well designed and perfectly planned malls in Bangalore. The Shopping Mall contains everything to cater the needs of the shopaholics and window shoppers. </string>
+    <string name="phoenixmallName">Phoenix Market City</string>
+    <string name="phoenixmallDetail">It is one of the largest shopping malls in Bangalore. Phoenix Market City is located in Mahadevapura on the White Field Road. The specialty of the mall is the open courtyard in the front that hosts multiple events like musical concerts, live shows, painting competitions etc</string>
+
+    <string name="nandihillsName">Nandi Hills</string>
+    <string name="nandihillsDetail">Nandi Hills is a scenic hill station situated close to Bangalore, serving as one of the most popular destinations for trekking of Karnataka and escaping the busy city life of Bangalore.</string>
+    <string name="chunchiName">Chunchi Falls</string>
+    <string name="chunchiDetail">At a distance of about 90 km form the city are one of the most scenic waterfalls in the area. With lush sparkling greenery and views all around, the spot becomes a beautiful and ideal breather from the city.</string>
+
+    <string name="cubbonparkName">Cubbon Park</string>
+    <string name="cubbonparkDetail">This park is a major sightseeing attraction, with 300 acres of green foliage. Having been laid down by Lord Cubbon, it is an ideal place for nature lovers an those seeking a calm atmosphere. </string>
+    <string name="lalbaghparkName">Lalbagh Garden</string>
+    <string name="lalbaghparkDetail">Lalbagh garden features rare plants of French, Persian and Afghani origin and has attained status of a Government Botanical Garden. The Lal Bagh Rock which is over 3000 million years old is found here and is a major tourist attraction.</string>
+
+    <string name="menuDrawer1">Famous PLaces</string>
+    <string name="menuDrawer2">NearBy PLaces</string>
+    <string name="menuDrawer3">Malls</string>
+    <string name="menuDrawer4">Parks</string>
+</resources>
